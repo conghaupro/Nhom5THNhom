@@ -1,0 +1,12 @@
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\bin\Debug\BaoCaoTestCase.exe.config
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\bin\Debug\BaoCaoTestCase.exe
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\bin\Debug\BaoCaoTestCase.pdb
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.csprojResolveAssemblyReference.cache
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.Form1.resources
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.Properties.Resources.resources
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.csproj.GenerateResource.Cache
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.exe
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.pdb
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.QLBanHang.resources
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.FormLogin.resources
+F:\testlogin\BaoCaoTestCase\BaoCaoTestCase\obj\Debug\BaoCaoTestCase.ThanhToancs.resources
